@@ -64,6 +64,6 @@ All contributions go through a code review process. Be open to feedback and addr
 
 ## Community
 
-Join our community and engage with other contributors. You can find us on [community platform/link].
+Join our community and engage with other contributors. You can find us on [ https://github.com/The-Puff-Adders].
 
 Happy contributing!
