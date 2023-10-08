@@ -1,4 +1,20 @@
 body {
     background-color: gray;
 }
-.n
+.wrapper{
+    align-items: center;
+}
+.header{
+    background-color:blanchedalmond;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.the-navs{
+    display: flex;
+    list-style-type: none;
+   }
+.the-navs > li{
+padding: 10px;
+
+   }
