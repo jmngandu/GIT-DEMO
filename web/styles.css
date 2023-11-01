@@ -1,62 +1,65 @@
 body {
-    background-color: gray;
+	background-color: gray;
 }
-.wrapper{
-    align-items: center;
+.wrapper {
+	align-items: center;
 }
-.header{
-    background-color:blanchedalmond;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
+.header {
+	background-color: blanchedalmond;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
 }
-.logo:hover{
-    color: white;
-    background-color:black;
-    border-radius: 5px;
+.logo:hover {
+	color: white;
+	background-color: black;
+	border-radius: 5px;
 }
 .navbar {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    border-radius: 10px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	border-radius: 10px;
 }
 
-.the-navs{
-    display: flex;
-    align-items: center;
-    justify-content: space-around;
-    list-style-type: none;
-   }
- .the-navs > li{
-    padding: 10px;
-   } 
-   .the-navs >li:hover{
-       text-decoration: overline;
-       color: white;
-       background-color:black;
-       border-radius: 10px;
-   }
-   .mainarea{
-       display: flex;
-       flex-direction: column;
-       align-items: center;
-   }
-   .welcome{
-       margin-top: 10%;
-   }
-   .title{
-       font-size: 40px;
-   }
-   .desciption{
-       font-size: 20px;
-        }
-   .clicker{
-       font-size: 40px;
-       border-radius: 10px;
-   }
-   .clicker:hover{
-       background-color:black;
-       color: white;
-       border: 5px solid red;
-   }
+.the-navs {
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+	list-style-type: none;
+}
+.the-navs > li {
+	padding: 10px;
+}
+.the-navs > li:hover {
+	text-decoration: overline;
+	color: white;
+	background-color: black;
+	border-radius: 10px;
+}
+.mainarea {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+.welcome {
+	margin-top: 10%;
+}
+.title {
+	font-size: 40px;
+}
+.desciption {
+	font-size: 20px;
+}
+.clicker {
+	font-size: 40px;
+	border-radius: 10px;
+}
+.clicker:hover {
+	background-color: black;
+	color: white;
+	border: 5px solid red;
+}
+.clicker > a {
+	text-decoration: none;
+}
