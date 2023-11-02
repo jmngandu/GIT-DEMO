@@ -11,7 +11,7 @@ body {
 	justify-content: space-between;
 }
 .logo:hover {
-	color: white;
+	color: ghostwhite;
 	background-color: black;
 	border-radius: 5px;
 }
